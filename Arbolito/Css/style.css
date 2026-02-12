@@ -4,7 +4,7 @@ body {
     width: 100vw;
     height: 100vh;
     overflow: hidden;
-    background: #fcfcfc;
+    background: #f4f6f8;
 }
 
 #fireworks-canvas {
@@ -24,7 +24,7 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     font-size: 5rem;
-    color: #e60026;
+    color: #0800e6;
     font-family: 'Arial Black', Arial, sans-serif;
     text-shadow: 2px 2px 8px #ffb3b3;
     z-index: 2;
